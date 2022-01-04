@@ -18,4 +18,19 @@ When one needs help he can create a new post and ask for help.After login simply
   <br /><br /><br />
   
  ## Comment
- 
+ - you can add comment under each post
+  <br /><br /><br />
+  ![commenting](/images/comment.png) 
+  
+ ## Blogs
+  - you can write your own blog and read others blog here (unimplemented)
+   <br /><br /><br />
+   ![write Blog](/images/blog.png)
+   
+ ## Shedule a meeting
+ - Shedule a virtual meeting on google meets
+   <br /><br /><br />
+   ![Shedule google meets](/images/sheduling.png)
+ ## Calender
+ - Now you can see your sheduled meeting on claender
+  ![calender](/images/calender.png)
