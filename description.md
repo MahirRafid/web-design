@@ -63,4 +63,4 @@ When one needs help he can create a new post and ask for help.After login simply
 - One can create new friends and see his friends after clicking this<br /><br /><br />
  ![friends](/images/mates.png)<br /><br /><br />
 ## Logout
-- you can logout from your user
+- you can logout from your browser for security reasons
