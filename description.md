@@ -21,16 +21,32 @@ When one needs help he can create a new post and ask for help.After login simply
  - you can add comment under each post
   <br /><br /><br />
   ![commenting](/images/comment.png) 
+  <br /><br /><br />
   
  ## Blogs
   - you can write your own blog and read others blog here (unimplemented)
    <br /><br /><br />
    ![write Blog](/images/blog.png)
+   <br /><br /><br />
    
  ## Shedule a meeting
  - Shedule a virtual meeting on google meets
    <br /><br /><br />
    ![Shedule google meets](/images/sheduling.png)
+   <br /><br /><br />
  ## Calender
  - Now you can see your sheduled meeting on claender
+  <br /><br /><br />
   ![calender](/images/calender.png)
+  <br /><br /><br />
+  
+ ## Mentoring a project
+ - If you want to help someone in his project click the button [Be a Mentor]() <br /><br /><br />
+   ![mentor](/images/mentor.png)
+   <br /><br /><br />
+   
+ - Now this projects will be added to your current projects page<br /><br /><br />
+   ![current projects](/images/currentProjects.png)
+   <br /><br /><br />
+ - Click the [Details]() button to see the full post<br /><br /><br />
+   ![one post](/images/current.png)
