@@ -2,6 +2,10 @@
 Generaly Students face a lot of problems when they start a project. In academic life they needs a mentor for his work. On the other hand, many seniors are willing to help them in their project. So, we planned to create a web application where they can find a good place for all of these.
 # Functionalities
 In  [Ask-Seniors](https://ask-seniors.herokuapp.com) we have the following functionalities
+## Sign UP
+- To enter the app you have to Sign up manually or simply Signup with Google<br /><br /><br />
+ ![sign up page](/images/signup.png) 
+ <br /><br /><br />
 ## Create post
 When one needs help he can create a new post and ask for help.After login simply follow the steps :
 - Click the **+** button on the navbar<br /><br /><br />
@@ -50,3 +54,13 @@ When one needs help he can create a new post and ask for help.After login simply
    <br /><br /><br />
  - Click the [Details]() button to see the full post<br /><br /><br />
    ![one post](/images/current.png)
+   <br /><br /><br />
+## profile
+- you can see your profile and also update if you want<br /><br /><br />
+  ![profile](/images/profile.png)
+  <br /><br /><br />
+## Mates 
+- One can create new friends and see his friends after clicking this<br /><br /><br />
+ ![friends](/images/mates.png)<br /><br /><br />
+## Logout
+- you can logout from your user
