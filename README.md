@@ -12,6 +12,11 @@
 
 # Acknowlwdgement
   
+  - Web Development bootcamp by Angela Yu
+  - FreeCodeCamp Academy
+  - Websites like w3schools, MDN web docs etc.
+  - Youtube channels offer the web development learning
+  - MD. Sayem Islam (2018331074)
 
 # Developers
 
@@ -40,7 +45,7 @@
 
 
 # Contributions
-### Al Fahad
+### Nasrullah Sami
 - Project Planning
 - grant_chart
 - Wireframing
