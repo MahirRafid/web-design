@@ -2,7 +2,7 @@
 ## Process One
  - Simply [Click Here](https://ask-seniors.herokuapp.com/) and you get the web page https://ask-seniors.herokuapp.com/ 
 ## Process Two
- - Use command git clone or simply dowload the .zip file from git repository and extract it
+ - Use command git clone or simply dowload the ZIP file from git repository and extract it
  - Open your command prompt/terminal ( [Hyper](https://hyper.is/) recomended )
  - Change directory to where server.js file is ie 
  - ``` cd Downloads/G65-Ask-Seniors/Find ``` 
